@@ -1,6 +1,15 @@
+
+.container{
+    margin-bottom: 100px;
+}
 a{
     color: black;
 }
+.btn{
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+
 .logo{
     background-color: #F0FFF0;
     padding: 30px;
@@ -12,6 +21,14 @@ a{
 }
 .heading{
     text-align: center;
+    border: 1px solid green;
+    background-color: green;
+    border-radius: 0 20px 0 20px;
+    width: 250px;
+    margin: 0 auto;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+    
 }
 .course{
     box-shadow: 5px 10px 30px gainsboro;
@@ -24,9 +41,11 @@ a{
 }
 .copy{
     text-align: center;
-    padding: 100px 0;
+    padding: 50px 0;
+    color: red;
 }
 #sign-in{
-    text-align: center;
+    width: 40%;
+    margin: 0 auto;
     padding: 50px 0;
 }
