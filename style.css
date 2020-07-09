@@ -1,0 +1,32 @@
+a{
+    color: black;
+}
+.logo{
+    background-color: #F0FFF0;
+    padding: 30px;
+    border-radius: 5px;
+}
+#shed{
+    background-color: white;
+    box-shadow: 10px 10px 30px whitesmoke;
+}
+.heading{
+    text-align: center;
+}
+.course{
+    box-shadow: 5px 10px 30px gainsboro;
+    padding: 10px 25px;
+}
+.last{
+    background-color: black;
+    color: white;
+    padding: 30px 60px;
+}
+.copy{
+    text-align: center;
+    padding: 100px 0;
+}
+#sign-in{
+    text-align: center;
+    padding: 50px 0;
+}
