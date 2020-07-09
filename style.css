@@ -1,4 +1,6 @@
-
+#colored-p{
+    color: green;
+}
 .container{
     margin-bottom: 100px;
 }
@@ -20,6 +22,7 @@ a{
     box-shadow: 10px 10px 30px whitesmoke;
 }
 .heading{
+    color: white;
     text-align: center;
     border: 1px solid green;
     background-color: green;
@@ -32,7 +35,8 @@ a{
 }
 .course{
     box-shadow: 5px 10px 30px gainsboro;
-    padding: 10px 25px;
+    padding: 10px;
+   
 }
 .last{
     background-color: black;
